@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
-  <app appid="REPLACE_WITH_YOUR_32_CHAR_EXTENSION_ID">
+  <app appid="dgembpkebbmifgkojjnendefikkopnii">
     <updatecheck
-      codebase="https://YOUR-USERNAME.github.io/snake-blocker/snake-blocker.crx"
+      codebase="https://Will-JF-Chapman.github.io/snake-blocker/snake-blocker.crx"
       version="1.0" />
   </app>
 </gupdate>
