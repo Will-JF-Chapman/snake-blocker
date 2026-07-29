@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="dgembpkebbmifgkojjnendefikkopnii">
     <updatecheck
-      codebase="https://Will-JF-Chapman.github.io/snake-blocker/snake-blocker.crx"
+      codebase="https://will-jf-chapman.github.io/snake-blocker/snake-blocker.crx"
       version="1.0" />
   </app>
 </gupdate>
